@@ -12,26 +12,27 @@ Spot seasonal trends or irregularities
 Present findings through an interactive, user-friendly dashboard
 
 🧰 Tools & Technologies
-Power BI
-Power Query for data cleaning and transformation
-DAX for calculated columns and measures
-Slicers and filters for interactivity
-Excel (used for initial review and basic cleanup)
+    - Power BI
+    - Power Query for data cleaning and transformation
+    - DAX for calculated columns and measures
+    - Slicers and filters for interactivity
+    - Excel (used for initial review and basic cleanup)
 
 📊 Dashboard Highlights -
 
-  📈 Total Sales, Profit & Quantity KPIs
-  🏆 Top 5 Products by Revenue
-  🌍 Regional Sales Breakdown
-  📆 Monthly Sales Trends Line Chart
-  📦 Category-wise Performance Visuals
-  🧭 Interactive filters for Year, Category
+   - 📈 Total Sales, Profit & Quantity KPIs
+   - 🏆 Top 5 Products by Revenue
+   - 🌍 Regional Sales Breakdown
+   - 📆 Monthly Sales Trends Line Chart
+   - 📦 Category-wise Performance Visuals
+   - 🧭 Interactive filters for Year, Category
 
 🎓 Certification
-Power BI Data Analyst by O'Reilly Media
+   - Power BI Data Analyst by O'Reilly Media
 
 📬 Contact
-If you're interested in collaborating or have any questions:
+   - If you're interested in collaborating or have any questions:
 
 📧 Email: rahimankodidela@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/kodidela-rahiman-1231b1195/
