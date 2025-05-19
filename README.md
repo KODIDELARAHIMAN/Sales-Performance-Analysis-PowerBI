@@ -22,7 +22,7 @@ Excel (used for initial review and basic cleanup)
   🌍 Regional Sales Breakdown
   📆 Monthly Sales Trends Line Chart
   📦 Category-wise Performance Visuals
-  🧭 Interactive filters for Year, Category, Region
+  🧭 Interactive filters for Year, Category
 
 🎓 Certification
 Power BI Data Analyst by O'Reilly Media
