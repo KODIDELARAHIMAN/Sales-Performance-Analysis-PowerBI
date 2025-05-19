@@ -30,9 +30,6 @@ Present findings through an interactive, user-friendly dashboard
 🎓 Certification
    - Power BI Data Analyst by O'Reilly Media
 
-📬 Contact
-   - If you're interested in collaborating or have any questions:
-
-📧 Email: rahimankodidela@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/kodidela-rahiman-1231b1195/
+📬 Contact me If you're interested in collaborating or have any questions:
+    - 📧 Email: rahimankodidela@gmail.com
+    - 💼 LinkedIn: https://www.linkedin.com/in/kodidela-rahiman-1231b1195/
