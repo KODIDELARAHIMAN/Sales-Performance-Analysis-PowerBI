@@ -6,10 +6,10 @@ This project presents an interactive Sales Dashboard built in Power BI. It explo
 
 
 🧠 Objectives
-Understand overall sales and profit trends
-Identify top-performing products and categories
-Spot seasonal trends or irregularities
-Present findings through an interactive, user-friendly dashboard
+    - Understand overall sales and profit trends
+    - Identify top-performing products and categories
+    - Spot seasonal trends or irregularities
+    - Present findings through an interactive, user-friendly dashboard
 
 🧰 Tools & Technologies
     - Power BI
@@ -31,5 +31,5 @@ Present findings through an interactive, user-friendly dashboard
    - Power BI Data Analyst by O'Reilly Media
 
 📬 Contact me If you're interested in collaborating or have any questions:
-    - 📧 Email: rahimankodidela@gmail.com
-    - 💼 LinkedIn: https://www.linkedin.com/in/kodidela-rahiman-1231b1195/
+   - 📧 Email: rahimankodidela@gmail.com
+   - 💼 LinkedIn: https://www.linkedin.com/in/kodidela-rahiman-1231b1195/
