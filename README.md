@@ -2,6 +2,9 @@
 📊 Sales Performance Analysis – Power BI Project
 This project presents an interactive Sales Dashboard built in Power BI. It explores key business metrics such as total sales, profit, and performance across different products, regions, and time periods. This provides actionable insights that can help improve sales strategy and decision-making.
 
+![02_Report_page](https://github.com/user-attachments/assets/7119a794-7956-42be-85d8-0aef1947501c)
+
+
 🧠 Objectives
 Understand overall sales and profit trends
 Identify top-performing products and categories
