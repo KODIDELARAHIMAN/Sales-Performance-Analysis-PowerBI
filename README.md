@@ -5,13 +5,15 @@ This project presents an interactive Sales Dashboard built in Power BI. It explo
 ![02_Report_page](https://github.com/user-attachments/assets/7119a794-7956-42be-85d8-0aef1947501c)
 
 
-🧠 Objectives
+🧠 Objectives -
+
     - Understand overall sales and profit trends
     - Identify top-performing products and categories
     - Spot seasonal trends or irregularities
     - Present findings through an interactive, user-friendly dashboard
 
-🧰 Tools & Technologies
+🧰 Tools & Technologies -
+
     - Power BI
     - Power Query for data cleaning and transformation
     - DAX for calculated columns and measures
